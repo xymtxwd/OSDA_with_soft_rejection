@@ -22,4 +22,4 @@ python train_digits_osda.py --task m2u --gpu <gpu_id>
 ```
 The results should look like below:
 
-<img src=https://user-images.githubusercontent.com/12399355/111513313-aca20500-871e-11eb-88dc-3759e361efaf.png width="1000" height="250">
+<img src=https://user-images.githubusercontent.com/12399355/111513313-aca20500-871e-11eb-88dc-3759e361efaf.png width="700" height="180">
